@@ -13,7 +13,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+ edit-main
       title: 'Personal Expenses Application',
+
+      title: 'Personal Expenses App',
+ main
       theme: ThemeData(
           primarySwatch: Colors.purple,
           accentColor: Colors.amber,
